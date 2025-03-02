@@ -1,0 +1,7 @@
+databaseChangeLog:
+#    - includeAll:
+#          path: liquibase/1.0
+#    - include:
+#          file: liquibase/1.0/change-log-1.0.1.yml
+#    - include:
+#          file: liquibase/1.1/change-log-1.1.2.yml
